@@ -12,5 +12,9 @@
 
 * [**IBM Z Open Editor**](https://marketplace.visualstudio.com/items?itemName=IBM.zopeneditor): A **VSCode plugin** that provides **COBOL**, **PL/I**, **HLASM language servers**, and **IBM Z development** tool.
 
+* [**Output Colorizer**](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer): A **VSCode language extension** that adds **syntax colorization** for both the **output/debug/extensions panel** and **log files**.
+
+
+
 
 **Enjoy!**
