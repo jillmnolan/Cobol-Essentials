@@ -3,6 +3,8 @@
     "displayName": "Cobol Essentials",
     "description": "COBOL Essentials for Visual Studio Code",
     "version": "0.0.1",
+    "icon": "icon.png",
+    "publisher": "JillMNolan",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -10,6 +12,7 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "Zowe.vscode-extension-for-zowe",
+        "IBM.zopeneditor"
     ]
 }
