@@ -1,6 +1,6 @@
 {
     "name": "cobol-essentials",
-    "displayName": "Cobol Essentials",
+    "displayName": "COBOL Essentials",
     "description": "COBOL Essentials for Visual Studio Code",
     "version": "0.0.1",
     "icon": "icon.png",
@@ -11,6 +11,10 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/jillmnolan/COBOL-Essentials"
+    },
     "extensionPack": [ 
         "Zowe.vscode-extension-for-zowe",
         "IBM.zopeneditor"
