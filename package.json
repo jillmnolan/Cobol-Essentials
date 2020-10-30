@@ -1,8 +1,8 @@
 {
     "name": "cobol-essentials",
     "displayName": "COBOL Essentials",
-    "description": "COBOL Essentials for Visual Studio Code",
-    "version": "0.0.1",
+    "description": "COBOL Essentials Extension Pack for Visual Studio Code",
+    "version": "0.0.2",
     "icon": "icon.png",
     "publisher": "JillMNolan",
     "engines": {
